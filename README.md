@@ -1,4 +1,4 @@
-# PRODIGY_DS_04
+# PRODIGY_DS_02
 ## Prodigy InfoTech Internship: Data Analysis Insights
 
 Welcome to the repository for my Prodigy InfoTech Internship! This repository details Task 2 of my internship, which emphasizes data cleaning, analysis, and uncovering valuable patterns.
